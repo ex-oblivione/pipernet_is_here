@@ -1,0 +1,195 @@
+body {
+  margin: auto;
+  font-family: Roboto, sans-serif;
+}
+
+header {
+  height: 84px;
+  background: #007765;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.block-width {
+  box-sizing: border-box;
+  width: 1219px;
+  padding: 0 55px;
+  margin: auto;
+}
+
+.header-content img {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+
+nav {
+  float: right;
+  padding-top: 28px;
+  color: white;
+  font-size: 24px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+main {
+  margin-top: 84px;
+}
+
+h1 {
+  padding-top: 48px;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  margin: 0;
+  color: #007765;
+}
+
+.piper-net-background {
+  padding-top: 160px;
+  padding-bottom: 160px;
+  background-image: url("Домашнее задание Pied Piper (Copy)/image-8.png");
+  background-size: cover;
+  background-position: center center;
+}
+
+.piper-net {
+  font-weight: 500;
+  font-size: 72px;
+  line-height: 84px;
+  text-align: center;
+  color: #fff;
+}
+
+#top {
+  margin-top: -84px;
+  padding-top: 84px;
+  -webkit-background-clip: content-box;
+	background-clip: content-box;
+}
+
+.the-problem-background {
+  height: 719px;
+  background: #eeeeee;
+}
+
+.the-problem-text {
+  font-size: 32px;
+  line-height: 37px;
+}
+
+#the-problem {
+  margin-top: -84px;
+  padding-top: 84px;
+  -webkit-background-clip: content-box;
+	background-clip: content-box;
+}
+
+.section2 {
+  padding-top: 128px;
+  padding-bottom: 128px;
+  background-image: url("Домашнее задание Pied Piper (Copy)/image-9.png");
+  background-size: cover;
+  background-position: center center;
+}
+
+.were_in {
+  font-style: italic;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  color: #fff;
+}
+
+.introducing_piedpipercoin {
+  height: 604px;
+  margin-bottom: 84px;
+  font-style: normal;
+  font-size: 32px;
+  line-height: 37px;
+}
+
+#piedpipercoin {
+  margin-top: -84px;
+  padding-top: 84px;
+  -webkit-background-clip: content-box;
+	background-clip: content-box;
+}
+
+
+figure {
+  float: left;
+  margin-left: 0;
+  margin-bottom: 0;
+}
+
+.the_team {
+  width: 100%;
+  height: 845px;
+  background: #eeeeee;
+}
+
+#the-team {
+  margin-top: -84px;
+  padding-top: 84px;
+  -webkit-background-clip: content-box;
+	background-clip: content-box;
+}
+
+
+.team_members {
+  width: 1050px;
+  margin: 56px auto 0;
+  box-sizing: border-box;
+  font-size: 0;
+}
+
+.team_member {
+  width: 350px;
+  text-align: center;
+  display: inline-block;
+}
+
+h2 {
+  margin-top: 12px;
+  margin-bottom: 0;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  color: #007765;
+}
+
+h3 {
+  margin-top: 0;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 21px;
+  font-weight: normal;
+
+}
+
+.second-raw {
+  margin-top: 82px;
+}
+
+footer {
+  width: 100%;
+  height: 176px;
+  background: #333333;
+  
+}
+
+.footer-text {
+  padding-top: 48px;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #ffffff;
+}
