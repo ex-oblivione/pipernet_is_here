@@ -48,6 +48,7 @@ h4 {
   left: 0;
   z-index: 3;
 }
+
 .header::before {
   content: "";
   position: absolute;
@@ -349,6 +350,10 @@ main {
 
   .header-list__separator {
     display: none;
+  }
+
+  .pied-piper-coin__content figure {
+    margin-right: 27px;
   }
 
   .pied-piper-coin__content img {
