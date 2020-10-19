@@ -332,8 +332,9 @@ main {
     width: 100%;
     height: 100%;
     background-color: #007765;
-    padding: 85px 0 0 47px;
+    padding: 98px 0 0 47px;
     transition: all 0.1s;
+    opacity: 0.95;
   }
 
   .header-nav-bar.active {
